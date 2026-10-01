@@ -1,6 +1,4 @@
-# Agentic AI homework website
-
-The website uses **Agentic AI Tutorial v2** from your design ZIP. Its content comes from your [Google Doc](https://docs.google.com/document/d/1Vful1uNVH21a4MA3AFJgWhcognYB_vV4b-4AJ1qXmfg/edit).
+# The basics of agentic AI: A practical, hands-on tutorial (ChatGPT flavored)
 
 ## Update the website
 
